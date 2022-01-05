@@ -3,7 +3,7 @@ type: single # single|window
 mode: session_based # session_based | session_aware
 preprocessor: diginetica # dataset (folder) name
 data:
-  folder: data/diginetica/raw/
+  folder: data/diginetica/
   prefix: train-item-views
 
 filter:
